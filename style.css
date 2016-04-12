@@ -1,0 +1,18 @@
+img {
+ border:1px solid black;
+
+ }
+h1 {
+  text-align: center;
+  color: #66CCFF;
+  font-size: 2.5em;
+  font-weight: bold;
+  font-family: "Oswald", sans-serif;
+}
+
+p {
+  color: #2D2D2D;
+  font-family: 'Lato', sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+}
